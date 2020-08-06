@@ -90,3 +90,5 @@ while(True):
         arduino.write(contents.encode('utf-8'))
         #arduino.write("manu".encode('utf-8'))
     #arduino.write("q".encode('utf-8'))
+
+    
